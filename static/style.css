@@ -1,0 +1,52 @@
+/* General body styling */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Navbar brand styling */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+/* Card hover effect */
+.card:hover {
+    transform: scale(1.02);
+    transition: 0.3s;
+}
+
+/* Button hover effect */
+.btn-primary:hover,
+.btn-dark:hover,
+.btn-success:hover {
+    opacity: 0.9;
+}
+
+/* Center headings */
+h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Table improvements */
+table {
+    background-color: white;
+}
+
+/* Cart empty message */
+p {
+    font-size: 16px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: #ff9900;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #e68a00;
+}
